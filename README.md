@@ -34,11 +34,9 @@ Constraint Satisfaction Problem
 1. Να υλοποιήσετε τους αλγόριθμους FC, MAC και MINCONFLICTS και να τους
 εφαρμόσετε στο πρόβλημα. Προτείνουμε να χρησιμοποιήσετε τον ευρετικό 
 κανόνα MRV για την δυναμική διάταξη μεταβλητών καθώς και τον ευρετικό 
-κανόνα dom/wdeg που περιγράφεται στο άρθρο
-F. Boussemart, F. Hemery, C. Lecoutre and L. Sais. Boosting Systematic 
-Search by Weighting Constraints. Proc. of ECAI 2004, pages 146–150, 
-2004. Διαθέσιμο στην ιστοσελίδα http://www.frontiersinai.com/ecai/ecai2004/ecai04/pdf/p0146.pdf .
-για τη διάταξη τιμών Η υλοποίηση σας πρέπει να βασιστεί πάνω στον κώδικα Python που διατίθεται 
+κανόνα dom/wdeg που περιγράφεται στο άρθρο *F. Boussemart, F. Hemery, C. Lecoutre and L. Sais. Boosting Systematic 
+Search by Weighting Constraints. Proc. of ECAI 2004, pages 146–150, 2004*. Διαθέσιμο στην ιστοσελίδα http://www.frontiersinai.com/ecai/ecai2004/ecai04/pdf/p0146.pdf .
+Η υλοποίηση σας πρέπει να βασιστεί πάνω στον κώδικα Python που διατίθεται 
 στη σελίδα https://github.com/aimacode/aima-python/blob/master/csp.py .  
 
 2. Να συγκρίνετε πειραματικά τους αλγόριθμους που υλοποιήσατε
